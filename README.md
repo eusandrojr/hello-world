@@ -7,10 +7,10 @@
 Estou trabalhando na Philips
 
 <h1>
-# Insrir no Ramo A - Teste de alteração
+# Inserir no Ramo A - Teste de alteração
 </h1>
 
-!Esse é um teste de alteração
+-> Esse é um teste de alteração
 
 </p>
 
