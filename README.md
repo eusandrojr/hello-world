@@ -5,3 +5,5 @@
 <h2>Curso do LECTOR</h2>
 <h3> Github</h3>
 </p>
+
+Eu estou fazendo o treinamento de Github
