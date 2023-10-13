@@ -1,4 +1,4 @@
-# hello-world
+# hello-world significa: Olá, Mundo!
 <p style="text-align: center; "Markdown=1"> 
 
 <h1>Repositório de Treinamento</h1>
