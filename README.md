@@ -4,6 +4,7 @@
 <h1>Repositório de Treinamento</h1>
 <h2>Curso do LECTOR</h2>
 <h3> Github</h3>
+Estou trabalhando na Philips
 </p>
 
-Eu estou fazendo o treinamento de Github
+Esse é um teste de alteração
